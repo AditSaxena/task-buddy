@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📌 Task Buddy
 A minimalist yet stylish to-do list app built using React. Add, check off, and delete tasks with a single click. Tasks persist between sessions using localStorage. Includes a custom UI with image-based toggle indicators.
 
@@ -55,3 +56,6 @@ This project is open source under the MIT License.
 
 🙋‍♂️ Author
 Made with ❤️ by Adit Saxena
+=======
+# task-buddy
+>>>>>>> 7c397fb (Initial commit)
